@@ -1,4 +1,8 @@
 # tic-tac-toe
 The most popular game the Tic Tac Toe
 
-<button>hi</button>
+Click on the <>Code button then click on Download as zip to download the zip file.
+
+Now there is only the multiplayer mode I will soon upload the code for play with Bot.
+
+![Screenshot (42)](https://github.com/wert-ed/tic-tac-toe/assets/118091763/7d3fb486-c6f3-4ec2-95cd-e1d54e201683)
